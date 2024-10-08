@@ -2,7 +2,7 @@
 ## This is the second header
 ### This is the third header
 
-##FOTG = BBQ
+## FOTG = BBQ
 * **Sweet Baby Rays**
 * Rib
 * Speghetti
